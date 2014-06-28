@@ -6,10 +6,10 @@
         id        = "com.hybrid.blogapp"
         version   = "1.0.0">
 
-    <name>The Jackal of Javascrip App</name>
+    <name>The Jackal of Javascript App</name>
 
     <description>
-       A Hybrid app fro my blog : 
+       A Hybrid app fro my blog : http://thejackalofjavascript.com
     </description>
 
     <author href="http://thejackalofjavascript.com/" email="admin@thejackalofjavascript.com">
